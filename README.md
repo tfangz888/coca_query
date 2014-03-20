@@ -1,10 +1,10 @@
 # coca_query 
 
-FIXME: description
+This is snip code to query some english words by frequency from COCA CORPUS automatically. It is not a completed code and cannot build successfully.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/tfangz888/coca_query
 
 ## Usage
 
